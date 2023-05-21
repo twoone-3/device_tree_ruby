@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ruby.mk
+    $(LOCAL_DIR)/twrp_ruby.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ruby-user \
-    omni_ruby-userdebug \
-    omni_ruby-eng
+    twrp_ruby-user \
+    twrp_ruby-userdebug \
+    twrp_ruby-eng
